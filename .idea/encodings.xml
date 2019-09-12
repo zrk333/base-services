@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/gateway-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/project-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/register-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
   </component>
 </project>
